@@ -1,0 +1,17 @@
+.vscode
+.idea
+RTE
+cmake-build-debug
+
+*.crf
+*.o
+*.d
+*.lst
+*.axf
+*.dep
+*.map
+*.htm
+# *.bak
+
+CMakeLists.txt
+sample.uvguix.*
